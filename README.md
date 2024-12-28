@@ -14,7 +14,6 @@ Dataset, öğrenci depresyonu üzerinde etkili olabilecek farklı faktörleri i�
 - **Özellik Sayısı:** 18+ (örnek sayısını datasetten doğrulayabilirsiniz).
 - **Veri Türleri:** Nümerik, kategorik, metinsel.
 - **Hedef Değişken:** Depresyon seviyesi 
-- **Dağılımlar:** Veri sınıf dengesizlikleri analiz edilerek çözülmüştür.
 
 ## 🔧 **Proje Adımları**
 
@@ -25,7 +24,7 @@ Dataset, öğrenci depresyonu üzerinde etkili olabilecek farklı faktörleri i�
 
 ### 2. **Veri Analizi**
 - Veri seti grafiklerle incelendi (histogramlar, scatter plot'lar, korelasyon matrisleri).
-- Sınıf dengesizliği tespit edilip SMOTE gibi teknikler uygulandı.
+
 
 ### 3. **Makine Öğrenmesi Modelleri**
 - **Seçilen Modeller:**
@@ -72,7 +71,7 @@ Aşağıdaki grafik, modellerin doğruluk performanslarını göstermektedir:
 
 ## 🛠 **Teknolojiler**
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- Jupyter Notebook
+- Pycharm
 
 ## 👨‍💻 **Katkıda Bulunanlar**
 - Ayşegül Bilici
